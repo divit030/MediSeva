@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+pillow
+httpx
+python-dotenv
+PyJWT
+pwdlib[argon2]
